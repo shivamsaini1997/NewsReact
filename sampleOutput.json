@@ -1,0 +1,209 @@
+{
+	"status": "ok",
+	"totalResults": 37,
+	"articles": [
+		{
+			"source": { "id": "reuters", "name": "Reuters" },
+			"author": "Umaru Fofana",
+			"title": "Sierra Leone declares nationwide curfew after attack on barracks - Reuters",
+			"description": "Sierra Leone has declared a nationwide curfew after unidentified gunmen attacked a military barracks and attempted to break into an armoury in the capital, Freetown, the government said on Sunday.",
+			"url": "https://www.reuters.com/world/africa/sierra-leone-security-forces-repelled-attack-barracks-govt-statement-2023-11-26/",
+			"urlToImage": "https://www.reuters.com/resizer/qpY8vTu0EP9KBaKYK3KpYwdLnOo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/MCM74ERTHVP5NJDJA3AQUNSCSM.jpg",
+			"publishedAt": "2023-11-26T09:33:00Z",
+			"content": "FREETOWN, Nov 26 (Reuters) - Sierra Leone has declared a nationwide curfew after unidentified gunmen attacked a military barracks and attempted to break into an armoury in the capital, Freetown, the … [+2659 chars]"
+		},
+		{
+			"source": { "id": null, "name": "BBC News" },
+			"author": null,
+			"title": "More hostages released by Hamas despite agonising delay - BBC.com",
+			"description": "Urgent diplomacy enables the release of 13 more Israelis and 39 Palestinian prisoners under the fragile Gaza truce deal.",
+			"url": "https://www.bbc.com/news/world-middle-east-67531477",
+			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/21FE/production/_131820780_8a12944b-eddf-4602-95d8-348cc493b370.jpg",
+			"publishedAt": "2023-11-26T09:32:00Z",
+			"content": "Emily Hand, 9, Noam Or, 17, and Sharon Avigdori, 52, were among the Israeli hostages released late on Saturday night\r\nA second group of Israeli hostages left Hamas captivity on Saturday, after hours … [+5844 chars]"
+		},
+		{
+			"source": { "id": null, "name": "[Removed]" },
+			"author": null,
+			"title": "[Removed]",
+			"description": "[Removed]",
+			"url": "https://removed.com",
+			"urlToImage": null,
+			"publishedAt": "1970-01-01T00:00:00Z",
+			"content": "[Removed]"
+		},
+		{
+			"source": { "id": null, "name": "[Removed]" },
+			"author": null,
+			"title": "[Removed]",
+			"description": "[Removed]",
+			"url": "https://removed.com",
+			"urlToImage": null,
+			"publishedAt": "1970-01-01T00:00:00Z",
+			"content": "[Removed]"
+		},
+		{
+			"source": {
+				"id": "al-jazeera-english",
+				"name": "Al Jazeera English"
+			},
+			"author": "Al Jazeera",
+			"title": "Israeli forces carry out deadly raids in the West Bank amid Gaza truce - Al Jazeera English",
+			"description": "Five Palestinians were shot dead in Jenin, while three others were killed elsewhere in the occupied West Bank on Sunday.",
+			"url": "https://www.aljazeera.com/news/2023/11/26/israeli-forces-carry-out-deadly-raids-in-the-west-bank-amid-gaza-truce",
+			"urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/11/2023-11-23T105740Z_224908055_RC2YI4AFG8FE_RTRMADP_3_ISRAEL-PALESTINIANS-RAID-NABLUS-1700982316.jpg?resize=1920%2C1440",
+			"publishedAt": "2023-11-26T08:04:29Z",
+			"content": "Israeli forces have killed eight Palestinians, including a child, in the occupied West Bank, according to the Palestinian Ministry of Health, taking the total number of Palestinians killed in the Wes… [+2392 chars]"
+		},
+		{
+			"source": { "id": "cbs-news", "name": "CBS News" },
+			"author": "Nikki Battiste",
+			"title": "What do Stephen Smith's injuries tell about the SC teen's death? New findings revealed. - CBS News",
+			"description": "\"48 Hours\" obtained exclusive access to the findings of an independent investigation into the unsolved death of the South Carolina teen, whose case was linked to the Murdaughs.",
+			"url": "https://www.cbsnews.com/news/stephen-smith-south-carolina-unsolved-death-48-hours-new-findings-revealed-in-case-linked-to-murdaughs/",
+			"urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/11/26/8f5fec70-7241-4810-b939-14d4d2541d30/thumbnail/1200x630/1059945513575489d22eef52901e5193/smith-stephen4.png?v=5659e73acd91751548aa89950cf015b0",
+			"publishedAt": "2023-11-26T07:11:00Z",
+			"content": "Years before disgraced South Carolina attorney Alex Murdaugh was convicted for the murders of his wife and son, there was another mystery in Murdaugh country — the death of Stephen Smith, a 19-year-o… [+39820 chars]"
+		},
+		{
+			"source": { "id": null, "name": "Hollywood Reporter" },
+			"author": "Kirsten Chuba",
+			"title": "Beyoncé’s ‘Renaissance’ Premiere: Superstar Debuts Concert Film in Los Angeles With Support of Family, Destiny’s Child - Hollywood Reporter",
+			"description": "Janelle Monáe, Issa Rae, Lizzo and Destiny's Child members Kelly Rowland and Michelle Williams walked the chrome carpet on Saturday night in support of Beyoncé's new film, as the superstar popped in with her family.",
+			"url": "https://www.hollywoodreporter.com/movies/movie-news/beyonce-renaissance-concert-film-premiere-los-angeles-1235678888/",
+			"urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2023/11/Beyonce-RENAISSANCE-WORLD-TOUR-getty-H-2023.jpg?w=1024",
+			"publishedAt": "2023-11-26T07:07:30Z",
+			"content": "Beyoncé brought Renaissance to the big screen on Saturday night, premiering her new concert film at a star-studded event in Beverly Hills. \r\nThe premiere, which took place at the Academy of Motion Pi… [+2707 chars]"
+		},
+		{
+			"source": { "id": "cnn", "name": "CNN" },
+			"author": "Taylor Nicioli",
+			"title": "November’s full beaver moon will shine bright this weekend - CNN",
+			"description": "November’s full beaver moon will shine bright in the early hours of Monday. Here’s the best way to view the lunar event.",
+			"url": "https://www.cnn.com/2023/11/26/world/november-full-beaver-moon-scn/index.html",
+			"urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1244582405.jpg?c=16x9&q=w_800,c_fill",
+			"publishedAt": "2023-11-26T07:00:00Z",
+			"content": "Sign up for CNNs Wonder Theory science newsletter. Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nNovembers full moon, known as the beaver moon, will sh… [+2941 chars]"
+		},
+		{
+			"source": { "id": "mashable", "name": "Mashable" },
+			"author": "Leah Stodart",
+			"title": "Walmart early Cyber Monday TV deals: Super cheap 4K TVs - Mashable",
+			"description": "If you haven't heard of Walmart's brand onn. yet, you might want to check it out.",
+			"url": "https://mashable.com/article/nov-26-early-cyber-monday-walmart-tv-deals-2023",
+			"urlToImage": "https://helios-i.mashable.com/imagery/articles/01ggYPd5OcpkVak1qolV03B/hero-image.fill.size_1200x675.v1700969530.png",
+			"publishedAt": "2023-11-26T06:52:03Z",
+			"content": null
+		},
+		{
+			"source": { "id": null, "name": "KWCH" },
+			"author": "Cale Chapman",
+			"title": "Snowstorm moves through Wichita - KWCH",
+			"description": "Saturday, the snow fell hard in Kansas.",
+			"url": "https://www.kwch.com/2023/11/26/snowstorm-moves-through-wichita/",
+			"urlToImage": "https://gray-kwch-prod.cdn.arcpublishing.com/resizer/GmTzTiW4Bv00GY7NW8uS24fz35Q=/1200x600/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/BVC4R76SKFBJJEY4RJMRYBENTE.png",
+			"publishedAt": "2023-11-26T04:50:00Z",
+			"content": "WICHITA, Kan. (KWCH) - Saturday, the snow fell hard in Kansas. Its something Richard Mayberry IV says hes always wanted to see himself. \r\nYou know Im originally from Florida, so this is pretty much m… [+878 chars]"
+		},
+		{
+			"source": { "id": "usa-today", "name": "USA Today" },
+			"author": "James Aitchison, Kasey Caminiti, Jillian Lucas, Noemi Orsini",
+			"title": "100+ Amazon Black Friday deals you can still shop ahead of Cyber Monday - Reviewed",
+			"description": "Save on Apple AirPods, Kindle e-readers, Dyson Airwrap, and so much more.",
+			"url": "https://reviewed.usatoday.com/black-friday/features/best-live-amazon-black-friday-deals-11-24-2023",
+			"urlToImage": "https://reviewed-com-res.cloudinary.com/image/fetch/s--KwDaWRZZ--/b_white,c_limit,cs_srgb,f_auto,fl_progressive.strip_profile,g_center,q_auto,w_1200/https://reviewed-production.s3.amazonaws.com/1700885984000/Black-friday-deals-2023-graphic.png",
+			"publishedAt": "2023-11-26T04:19:45Z",
+			"content": "Recommendations are independently chosen by Reviewed's editors. Purchases made through the links below may earn us and our publishing partners a commission.\r\nEditor's Note: Our deals experts are trac… [+12666 chars]"
+		},
+		{
+			"source": { "id": null, "name": "YouTube" },
+			"author": null,
+			"title": "China Fumes At U.S.; Shoos Away Naval Destroyer USS Hopper | 'Biggest Destroyer Of Peace' - Hindustan Times",
+			"description": "China has warned the U.S. after chasing away its naval destroyer USS Hopper from the disputed Paracel Islands in the South China Sea. China's PLA released a ...",
+			"url": "https://www.youtube.com/watch?v=cmnWXZm4awM",
+			"urlToImage": "https://i.ytimg.com/vi/cmnWXZm4awM/maxresdefault.jpg",
+			"publishedAt": "2023-11-26T04:02:37Z",
+			"content": null
+		},
+		{
+			"source": { "id": null, "name": "KSL.com" },
+			"author": "https://www.facebook.com/kslcom/",
+			"title": "After BYU's first Big 12 season, are changes coming to Kalani Sitake's program? - KSL.com",
+			"description": "Quit or not, there will be changes. The Cougars aren't postseason eligible for just the second time in 19 years.",
+			"url": "https://www.ksl.com/article/50799842/after-byus-first-big-12-season-are-changes-coming-to-kalani-sitakes-program",
+			"urlToImage": "https://img.ksl.com/slc/2958/295892/29589224.jpg?filter=kslv2/responsive_story_lg",
+			"publishedAt": "2023-11-26T03:45:06Z",
+			"content": "Estimated read time: 5-6\r\n minutes\r\nSTILLWATER, Okla. One by one, they filed into the visiting locker room, many wearing their emotions more on their sleeve than others but all wearing some sort of e… [+5491 chars]"
+		},
+		{
+			"source": { "id": "cbs-news", "name": "CBS News" },
+			"author": null,
+			"title": "Derek Chauvin, ex-officer convicted in George Floyd's killing, stabbed in prison - CBS News",
+			"description": "Derek Chauvin, the former Minneapolis police officer convicted of murdering George Floyd, was stabbed by another inmate Friday at a federal prison in Arizona.",
+			"url": "https://www.cbsnews.com/news/derek-chauvin-stabbed-in-prison-george-floyd/",
+			"urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/04/13/4f1aa4d0-c976-496c-8153-bacf83e14997/thumbnail/1200x630/09d960da60e7b7e0f1dc15730746cb50/ap23076588889618.jpg?v=5659e73acd91751548aa89950cf015b0",
+			"publishedAt": "2023-11-26T02:55:00Z",
+			"content": "Derek Chauvin, the former Minneapolis police officer convicted of murdering George Floyd, was stabbed by another inmate Friday at a federal prison in Tucson, Arizona, a person familiar with the matte… [+3898 chars]"
+		},
+		{
+			"source": { "id": null, "name": "Yahoo Entertainment" },
+			"author": "Ross Dellenger",
+			"title": "With 'Gravedigger,' Isaiah Bond and Alabama deliver fourth-and-31 miracle that will live on forever in Iron Bowl lore - Yahoo Sports",
+			"description": "When Auburn had Alabama on the ropes late Saturday night, a hero emerged from the fray and ended the game with an all-time Iron Bowl moment. The name's Bond....",
+			"url": "https://sports.yahoo.com/with-gravedigger-isaiah-bond-and-alabama-deliver-fourth-and-31-miracle-that-will-live-on-forever-in-iron-bowl-lore-024621100.html",
+			"urlToImage": "https://s.yimg.com/ny/api/res/1.2/SXL5Yiod2CfTNT5_D6EmJA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTk-/https://s.yimg.com/os/creatr-uploaded-images/2023-11/1fd96d30-8bf7-11ee-aded-b6c9ae5eb3a2",
+			"publishedAt": "2023-11-26T02:47:00Z",
+			"content": "AUBURN, Ala. Isaiah Bond sort of looks like a superhero.\r\nHere stands the Alabama sophomore receiver, from beneath Jordan-Hare Stadium, a spotlight shining on him and reporters gathered around. He ha… [+5187 chars]"
+		},
+		{
+			"source": { "id": "politico", "name": "Politico" },
+			"author": null,
+			"title": "Trump draws cheers in Haley's backyard at Clemson-South Carolina football game - POLITICO",
+			"description": "Haley, a Clemson alumna and trustee who was twice elected South Carolina governor, did not attend.",
+			"url": "https://www.politico.com/news/2023/11/25/trump-draws-cheers-in-haleys-backyard-at-clemson-south-carolina-football-game-00128599",
+			"urlToImage": "https://static.politico.com/e9/ec/2b762e1e483da861fa68ae4d744d/election-2024-trump-44720.jpg",
+			"publishedAt": "2023-11-26T02:24:50Z",
+			"content": "Trump was a guest of Gov. Henry McMaster, Haleys successor. The entourage, which entered through a veritable tunnel of Trump supporters on its way to a private suite, also included South Carolinas se… [+3684 chars]"
+		},
+		{
+			"source": { "id": null, "name": "KCCI Des Moines" },
+			"author": "Trey Fulbright",
+			"title": "Iowa weather: Snow continues to fall in some parts of the state - KCCI Des Moines",
+			"description": "Accumulations of 1-3 inches of snow are likely along and southeast of a line extending from Marshalltown, Des Moines, and Atlantic with the highest accumulations likely over southeast Iowa.",
+			"url": "https://www.kcci.com/article/light-accumulating-snow-over-central-iowa-saturday-evening-through-sunday-morning/45942537",
+			"urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/microsoftteams-image-75-6562a5e7bcd3e.png?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+			"publishedAt": "2023-11-26T01:51:00Z",
+			"content": "DES MOINES, Iowa —A Winter Weather Advisory is in effect through 8 a.m. Sunday for parts of central and southern Iowa, areas that are seeing the first snow of the season. \r\nAccumulations of 1 to 3 in… [+2512 chars]"
+		},
+		{
+			"source": { "id": "usa-today", "name": "USA Today" },
+			"author": "Paul Myerberg",
+			"title": "College football Week 13 winners and losers: Michigan again gets best of Ohio State - USA TODAY",
+			"description": "There were highs and lows in college football's Week 13, headlined by Ohio State and Michigan. Alabama and Washington were two other superlatives.",
+			"url": "https://www.usatoday.com/story/sports/ncaaf/2023/11/25/college-football-week-13-winners-losers/71703914007/",
+			"urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2023/11/26/USAT/71706705007-gty-1813640491.jpg?crop=4453,2505,x583,y741&width=3200&height=1801&format=pjpg&auto=webp",
+			"publishedAt": "2023-11-26T01:44:52Z",
+			"content": "Ohio State and Michigan lived up the hype and delivered a high-pressure, down-to-the-wire matchup between two of the best teams in the Bowl Subdivision.\r\nMichigan's 30-24 win is the program's third i… [+10479 chars]"
+		},
+		{
+			"source": { "id": "ign", "name": "IGN" },
+			"author": "Eric Song",
+			"title": "The HP Cyber Monday Sale Starts Now: Best Deals on OMEN Gaming PCs and Laptops - IGN",
+			"description": "HP's last big sale event of the year",
+			"url": "https://www.ign.com/articles/hp-cyber-monday-sale-best-deals-on-omen-gaming-pcs-and-laptops",
+			"urlToImage": "https://assets-prd.ignimgs.com/2023/11/25/hp-1700944963331.jpg?width=1280",
+			"publishedAt": "2023-11-26T00:55:31Z",
+			"content": "Black Friday 2023 might be officially over but the HP deals are still going strong. The HP Cyber Monday Sale is a collection of Black Friday deals that are still available as well as new deals that w… [+5241 chars]"
+		},
+		{
+			"source": { "id": null, "name": "Stokastic.com" },
+			"author": "Tommy Stokke",
+			"title": "NFL DFS Lineup Advice for Week 12: Michael Pittman Jr. & Trey McBride Lead Popular Picks (November 26) - stokastic.com",
+			"description": "We understand not everyone looking for NFL DFS lineup advice has the time to watch every show, read every breakdown and input data into...",
+			"url": "https://www.stokastic.com/news/nfl-dfs-lineup-advice-for-week-12-michael-pittman-jr-trey-mcbride-popular-picks-november-26-i50/",
+			"urlToImage": "https://www.stokastic.com/wp-content/uploads/2023/11/treymcbride.png",
+			"publishedAt": "2023-11-26T00:28:32Z",
+			"content": "Trey McBride has been an NFL DFS standout since the return of Kyler Murray. Michael Pittman Jr. is currently the most popular wide receiver on the board. How do we find ways to build around them whil… [+3274 chars]"
+		}
+	]
+}
